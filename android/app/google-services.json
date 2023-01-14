@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "969989049512",
+    "project_id": "loginsafdfdsa",
+    "storage_bucket": "loginsafdfdsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969989049512:android:cb140eeb96d84c498b069d",
+        "android_client_info": {
+          "package_name": "com.example.backing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969989049512-hrrdcms0qd1ca2m5bfmq09s6j5te3ul8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_x1g1iKgjvN9UMweN4ImXRb3Tb53HuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969989049512-hrrdcms0qd1ca2m5bfmq09s6j5te3ul8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969989049512-suatbqc1df3babph9nno8a523ipi97on.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.backing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
